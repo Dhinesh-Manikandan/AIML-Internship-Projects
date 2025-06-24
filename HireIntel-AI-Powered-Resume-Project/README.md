@@ -1,1 +1,1 @@
-# HireIntel-AI-powered-Resume-Ranker
+# AIML Internship Projects
