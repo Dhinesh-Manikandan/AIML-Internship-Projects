@@ -16,4 +16,4 @@ This project is a **basic-level internship project** that demonstrates how **Nat
 - **Sentence Transformers** – semantic similarity  
 - **Gradio** – UI for uploading and ranking resumes  
 
-## 📂 Project Structure  
+
